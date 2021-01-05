@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinayak  👋
 
 
-## I'm a Full Stack Web developer!!
+## I'm a Self Taught Full Stack Web developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer on cool projects
@@ -42,21 +42,16 @@
 
 ---
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinayaksaubhri)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+---
 
-<!--END_SECTION:activity-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaksaubhri)
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
+####  NOTE: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
+---
 
 
-</details>
 
 [website]: https://portfolio.com
 [twitter]: https://twitter.com/VinayakSaubhri
