@@ -3,8 +3,8 @@
 
 ## I'm a Self Taught Full Stack Web developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer on cool projects
+- 🌱 I’m currently learning React.JS
+- 👯 I’m looking to collaborate on project that use MERN stack
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new stuff
 - ⚡ Fun fact: I love to play video games
 
