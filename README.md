@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning React.JS
 - 👯 I’m looking to collaborate on project that use MERN stack
+-:computer: Most used line of code `git commit -m "Initial Commit"`
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new stuff
 - ⚡ Fun fact: I love to play video games
 
