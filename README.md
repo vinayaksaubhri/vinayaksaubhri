@@ -60,11 +60,11 @@
 
 ---
 
-![vinayak github stats](https://github-readme-stats.vercel.app/api?username=vinayaksaubhri)
+![vinayak github stats](https://github-readme-stats.vercel.app/api?username=vinayaksaubhri&show_icons=true&theme=radical)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaksaubhri)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaksaubhri&theme=radical)
 
 ####  NOTE: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 ---
