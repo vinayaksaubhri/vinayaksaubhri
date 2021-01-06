@@ -72,5 +72,12 @@
 ####  NOTE: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 ---
 <!--START_SECTION:waka-->
+```text
+Other        20 hrs 29 mins  ███████████████████████░░   91.34 % 
+Markdown     1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JavaScript   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
 <!--END_SECTION:waka-->
 </details>
