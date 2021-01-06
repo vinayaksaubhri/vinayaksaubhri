@@ -1,32 +1,35 @@
-### Hi there, I'm Vinayak  👋
+# Hi I'm Vinayak  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+### I'm a Self Taught **Full Stack Web developer!!**
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Vinayak_saubhri-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vinayaksaubhri)](https://twitter.com/vinayaksaubhri) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinayak_saubhri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-saubhri-3b42ba150) 
+[![instagram badge](https://img.shields.io/badge/-@vinayak__saubhri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/vinayak_saubhri) [![Mail Badge](https://img.shields.io/badge/-Vinayak_saubhri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 
-## I'm a Self Taught Full Stack Web developer!!
+<!-- TODO: Add last video link -->
 
 - 🌱 I’m currently learning React.JS
 - 👯 I’m looking to collaborate on project that use MERN stack
--:computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new stuff
 - ⚡ Fun fact: I love to play video games
 
+#### Top Technologies
 
-### Connect with me:
+<!-- TODO: Make technologies links takes you to repositories -->
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
-<br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -43,7 +46,21 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinayaksaubhri)
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vinayaksaubhri.vinayaksaubhri)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+---
+
+![vinayak github stats](https://github-readme-stats.vercel.app/api?username=vinayaksaubhri)
 
 ---
 
@@ -52,9 +69,4 @@
 ####  NOTE: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 ---
 
-
-
-[website]: https://portfolio.com
-[twitter]: https://twitter.com/VinayakSaubhri
-[instagram]: https://www.instagram.com/vinayak_saubhri/
-[linkedin]: https://www.linkedin.com/in/vinayak-saubhri-3b42ba150
+</details>
