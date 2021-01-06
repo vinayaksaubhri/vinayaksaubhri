@@ -6,7 +6,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Vinayak_saubhri-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vinayaksaubhri)](https://twitter.com/vinayaksaubhri) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinayak_saubhri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-saubhri-3b42ba150) 
-[![instagram badge](https://img.shields.io/badge/-@vinayak__saubhri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/vinayak_saubhri) [![Mail Badge](https://img.shields.io/badge/-Vinayak_saubhri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![instagram badge](https://img.shields.io/badge/-@vinayak__saubhri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/vinayak_saubhri) [![Mail Badge](https://img.shields.io/badge/-Vinayak_saubhri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vinayaksaubhri@gmail.com)
 
 
 <!-- TODO: Add last video link -->
