@@ -70,5 +70,11 @@
 ####  NOTE: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 ---
 <!--START_SECTION:waka-->
+```text
+Other        19 hrs 11 mins  ████████████████████████▒   96.70 % 
+JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+```
 <!--END_SECTION:waka-->
 </details>
