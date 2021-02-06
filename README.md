@@ -71,8 +71,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-C++      2 hrs 19 mins   ███████████████████████▓░   94.67 % 
-Python   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </details>
