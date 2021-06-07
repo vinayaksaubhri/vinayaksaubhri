@@ -71,10 +71,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-JSX          3 hrs 57 mins   █████████████████░░░░░░░░   67.38 % 
-JavaScript   1 hr 38 mins    ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </details>
