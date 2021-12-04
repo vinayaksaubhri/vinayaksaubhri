@@ -72,8 +72,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-JSX          51 mins         ████████████████████████▒   97.29 % 
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </details>
