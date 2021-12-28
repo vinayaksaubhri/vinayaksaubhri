@@ -72,8 +72,9 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-JSX          3 hrs 26 mins   ████████████████████████▓   98.36 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSX          3 hrs 52 mins   ████████████████████████▓   98.02 % 
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
 </details>
