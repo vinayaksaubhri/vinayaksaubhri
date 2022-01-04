@@ -72,8 +72,8 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-JSX          1 hr 14 mins    ██████████████████████▓░░   90.00 % 
-TypeScript   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JSX          48 mins         █████████████████████▓░░░   87.26 % 
+TypeScript   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 ```
 <!--END_SECTION:waka-->
 </details>
