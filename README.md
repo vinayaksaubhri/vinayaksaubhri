@@ -72,8 +72,6 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Total: 0 secs
-
 Other   31 hrs 12 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
