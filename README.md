@@ -15,8 +15,7 @@
 - 👯 I’m looking to collaborate on anything! 
 - 🙋 Ask me about anything, I am happy to help.
 - :computer: Most used line of code `git commit -m "First Commit"`
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn new stuff
-- ⚡ Fun fact: I love to play video games
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn new stuff- ⚡ Fun fact: I love to play video games
 
 #### Top Technologies
 
