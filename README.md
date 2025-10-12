@@ -72,7 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    11 hrs 8 mins   ██████████████████████░░░   87.34 %
+TypeScript    11 hrs 8 mins   █████████████████████▓░░░   87.32 %
 JSON          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 Kotlin        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 Objective-C   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
